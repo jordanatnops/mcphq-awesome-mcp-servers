@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 534 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 535 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1925,6 +1925,18 @@ Manage Azure resources and services through MCP tools.
 - Official: yes
 - Tags: azure, cloud, infra
 - Category: Cloud and Infrastructure
+
+### Clara by nOps
+
+Official nOps FinOps assistant: query AWS, GCP and Azure cost and usage, Reserved Instance and Savings Plan performance, budgets, reports and anomalies over OAuth.
+
+- URL: https://github.com/nops-io/clara-mcp
+- Language: Other
+- Provider: nOps
+- Official: yes
+- Tags: finops, cloud-cost, aws, remote
+- Category: Cloud and Infrastructure
+- Streamable HTTP endpoint: https://mcp.nops.io
 
 ### CloudBurn
 

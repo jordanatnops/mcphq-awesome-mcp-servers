@@ -5103,6 +5103,24 @@
     "official": true
   },
   {
+    "name": "Clara by nOps",
+    "url": "https://github.com/nops-io/clara-mcp",
+    "description": "Official nOps FinOps assistant: query AWS, GCP and Azure cost and usage, Reserved Instance and Savings Plan performance, budgets, reports and anomalies over OAuth.",
+    "category": "cloud-and-infrastructure",
+    "language": "Other",
+    "provider": "nOps",
+    "tags": [
+      "finops",
+      "cloud-cost",
+      "aws",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.nops.io"
+    }
+  },
+  {
     "name": "mcp-pool",
     "url": "https://github.com/yuzu-octopus/mcp-pool",
     "description": "MCP Key Pool Proxy — pool multiple API keys across upstream MCP servers to distribute rate limits. One subprocess per pool, lazy failover, per-key cooldown.",

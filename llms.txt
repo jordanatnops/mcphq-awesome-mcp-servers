@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 534 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 535 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -197,6 +197,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Ausca](https://ausca.com/docs/mcp/): Discover metered OCR, transcription, browser and receive-only inbox services; paid invocations require x402 payment authority and return receipts. (Go, official)
 - [AWS MCP Server](https://github.com/alexei-led/aws-mcp-server): Execute AWS CLI commands safely in a containerized environment. (Python)
 - [Azure MCP Server](https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server): Manage Azure resources and services through MCP tools. (C#, official)
+- [Clara by nOps](https://github.com/nops-io/clara-mcp): Official nOps FinOps assistant: query AWS, GCP and Azure cost and usage, Reserved Instance and Savings Plan performance, budgets, reports and anomalies over OAuth. (Other, official)
 - [CloudBurn](https://github.com/towardsthecloud/cloudburn): Read-only AWS cost analysis for Terraform, CloudFormation, and live AWS accounts through a local stdio MCP server. (TypeScript, official)
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare): Manage Workers, KV, R2, and Cloudflare platform resources. (TypeScript, official)
 - [CloudGPU MCP Server](https://github.com/mrhy7176/cloudgpu-mcp): Rent per-minute cloud GPUs from an MCP client: browse available GPUs, launch an instance, run a job, download results, and destroy it on CloudGPU. (JavaScript, official)
